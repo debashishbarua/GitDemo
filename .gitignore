@@ -1,0 +1,6 @@
+#git ignore
+
+# Ignore all text files
+*.log
+# Ignore all under log folder
+/log
